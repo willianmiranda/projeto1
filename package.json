@@ -10,7 +10,15 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianmiranda/projeto1.git"
+  },
+  "author": "Willian Miranda",
+  "bugs": {
+    "url": "https://github.com/willianmiranda/projeto1/issues"
+  },
+  "homepage": "https://github.com/willianmiranda/projeto1#readme",
   "dependencies": {
     "@angular/animations": "^4.0.0",
     "@angular/common": "^4.0.0",
